@@ -1,18 +1,7 @@
-# Salvia-kit Dashboard v2 Svelte-kit
+# Stimpfy3D
 
-![Salvia-kit Dashboard v2](https://www.salvia-kit.com/images/dashboards/dashv2.jpg)
+![stimpfy example](https://ik.imagekit.io/nurman/6134296361047277025.jpg?updatedAt=1722445636512)
 
-## 📋 Documentation
-You can see the documentation on [http://localhost:3000/admin/documentation](http://localhost:3000/admin/documentation)
-
-## Browser Support
-
-| Chrome | Firefox | Edge | Safari | Opera |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> | <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64"> |
-
-## Contribution
-If you would like to contribute on the project, fixing bugs, please follow our [Contribution guide](https://github.com/salvia-kit/dashboard-v1-svelte/blob/main/contributing.md)
 
 
 # create-svelte
